@@ -1,0 +1,13 @@
+The bitbucket repository from "https://bitbucket.org/eezeeordertech/eezeeorder/src/master/" is installed in the server at - "var/www/webserver/eezeeorder" directory 
+
+Nginx is installed and available at - /etc/nginx/
+
+Gunicorn and Nginx Setup resource - https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04#configure-nginx-to-proxy-pass-to-gunicorn
+
+UFW installation resource - https://linuxconfig.org/how-to-install-and-use-ufw-firewall-on-linux
+
+SSL certificates - Guide - https://blog.cloudboost.io/setting-up-an-https-sever-with-node-amazon-ec2-nginx-and-lets-encrypt-46f869159469
+
+Install Certbot for your distro after DNS points to correct IP https://certbot.eff.org/lets-encrypt/centosrhel7-nginx
+
+Guide - LAMP Server on Amazon EC2 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html

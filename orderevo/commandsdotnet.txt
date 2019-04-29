@@ -1,0 +1,5 @@
+dotnet run
+dotnet build
+dotnet restore
+dotnet ef database update
+sudo nohup dotnet run kestrel > /dev/null 2>&1 &
